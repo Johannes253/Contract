@@ -8,13 +8,22 @@ developed and signed BEFORE starting the actual course project. For the Team Con
 provide the signed and dated original contract to me by the specified deadline on your course
 schedule. Give a photocopy of the original to each group member for their records. This
 document is more for your group than it is for me so feel free to tailor it to your group's needs.
+
 Project Team Name:
 A. Team Structure:
 1. Leadership structure (individual, individual with rotating leadership, shared):
+	- Individual Leadership structure
+	- Hayden Moussa
 2. Decision-making policy (by consensus? by majority vote?):
+	- Unanimous consent
 3. Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins?
+ 	- We will all work on that together
 4. Day, time, and place for regular team meetings:
+	- Every Tuesday after 5:00pm
+	- Second floor of library
 5. Usual method of communication (e.g., e-mail, cell phone, wired phone, in person):
+	- Microsoft Teams
+	- In person meetings 
 Team Member Name: E-Mail Telephone/Other Contact Info
 1
 2
