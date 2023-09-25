@@ -9,7 +9,8 @@ provide the signed and dated original contract to me by the specified deadline o
 schedule. Give a photocopy of the original to each group member for their records. This
 document is more for your group than it is for me so feel free to tailor it to your group's needs.
 
-Project Team Name:
+Project Team Name: Faulkner County Juvenile Court Group
+
 A. Team Structure:
 1. Leadership structure (individual, individual with rotating leadership, shared):
 	- Individual Leadership structure
@@ -24,29 +25,39 @@ A. Team Structure:
 5. Usual method of communication (e.g., e-mail, cell phone, wired phone, in person):
 	- Microsoft Teams
 	- In person meetings 
+	
 Team Member Name: E-Mail Telephone/Other Contact Info
-1
-2
-3
-4
-5
- Page 1 of 4
+1. Hayden Moussa 
+2. Justin Grubbs - grubbsjr@hendrix.edu
+3. Johannes Mayrhofer - MayrhoferJJ@hendrix.edu
+4. Joseph Washum - WashumJK@hendrix.edu
+
 B. Team Procedures:
 1. Method for setting and following meeting agendas (Who will set each agenda? When? How will team
 members be notified/reminded? Who will be responsible for the team following the agenda during a
 team meeting?):
-2. Method of record keeping (Who will be responsible for recording and disseminating minutes? How
-and when will the minutes be disseminated? Where will all agendas and minutes be stored?):
-3. Procedures in the absence of a team member: (will the team meet with one member absent, or must
+	- Communicate with the group, be transparent with how the project is going individually
+2. Procedures in the absence of a team member: (will the team meet with one member absent, or must
 all members be present?):
+	- Attempt to fill in the team member as much as possible
+	- Try to keep everyone on the same page
+	
 C. Team Participation:
-6. Strategies to ensure cooperation and equal distribution of tasks:
-7. Strategies for encouraging/including ideas from all team members (team maintenance):
-8. Strategies for keeping on task (task maintenance):
+1. Strategies to ensure cooperation and equal distribution of tasks:
+	- Distributed responsiblities among team members to serve as a guide
+	- Establish leader for each specific responsiblity 
+2. Strategies for keeping on task (task maintenance):
+	- Keep a general timeline
+	- Check in with group weekly to ensure the group is making good time
+	- Have a plan for each meeting to help us stay on task
+	
 D. Personal Accountability:
 1. Expected individual attendance, punctuality, and participation at all team meetings:
+	- Everyone is expected to attend as much as possible
 2. Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:
- Page 2 of 4
+	- Everyone is expected to clearly communicate what is being worked on and if help is needed
+	- Members are expected to work on stuff outside of their predefined roles
+	
 3. Expected level of communication with other team members:
 4. Expected level of commitment to team decisions and tasks.
 E. Consequences of breach of contract:
