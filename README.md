@@ -144,8 +144,6 @@ Date:9/26/2023
 
 Working on the front end with java script and html, focusing most of my time on html. I will work to communicate with my teammates, talking about whatever issues I run into on the project. I will be responsible for keeping up to date with my group mates and attending the weekly meetings. 
 
-Working on the front end with java script and html, focusing most of my time on html. I will work to communicate with my teammates, talking about whatever issues I run into on the project. I will be responsible for keeping up to date with my group mates and attending the weekly meetings. 
-
 
 Printed
 name: Johannes Mayrhofer
@@ -153,6 +151,7 @@ name: Johannes Mayrhofer
 Signature: Johannes Mayrhofer
 
  Date:09/26/2023
+Working as the interface to the Client i will use my experience aquiered from working as a Software Engineer to guarantee a satisfactory cooporation between the team and the client. Secondly I will also be working on the SQL Database and schema where will work together with my assigned partner. I will be responsible for attending every meeting if possible and work together with all my teammeates and communicate any issues i may have. 
 
 Printed
 name: Joseph Washum
