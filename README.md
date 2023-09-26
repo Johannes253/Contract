@@ -24,10 +24,10 @@ A. Team Structure:
 	- Second floor of library
 5. Usual method of communication (e.g., e-mail, cell phone, wired phone, in person):
 	- Microsoft Teams
-	- In person meetings 
-	
+	- In person meetings
+
 Team Member Name: E-Mail Telephone/Other Contact Info
-1. Hayden Moussa 
+1. Hayden Moussa
 2. Justin Grubbs - grubbsjr@hendrix.edu
 3. Johannes Mayrhofer - MayrhoferJJ@hendrix.edu
 4. Joseph Washum - WashumJK@hendrix.edu
@@ -41,32 +41,32 @@ team meeting?):
 all members be present?):
 	- Attempt to fill in the team member as much as possible
 	- Try to keep everyone on the same page
-	
+
 C. Team Participation:
 1. Strategies to ensure cooperation and equal distribution of tasks:
 	- Distributed responsiblities among team members to serve as a guide
-	- Establish leader for each specific responsiblity 
+	- Establish leader for each specific responsiblity
 2. Strategies for keeping on task (task maintenance):
 	- Keep a general timeline
 	- Check in with group weekly to ensure the group is making good time
 	- Have a plan for each meeting to help us stay on task
-	
+
 D. Personal Accountability:
 1. Expected individual attendance, punctuality, and participation at all team meetings:
 	- Everyone is expected to attend as much as possible
 2. Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:
 	- Everyone is expected to clearly communicate what is being worked on and if help is needed
 	- Members are expected to work on stuff outside of their predefined roles
-	
+
 3. Expected level of communication with other team members:
 	-Reach out if you are having a problem. (missing a meeting or having trouble with project)
 4. Expected level of commitment to team decisions and tasks.
 	-If we agreee to something as a group and it is possible fulfil do your end. Ask for help, communicate
 E. Consequences of breach of contract:
 What procedures and penalties do you wish to implement in the case of "slackers" or team members who
-deviate from your Team Contract? You basically have two options here: 
+deviate from your Team Contract? You basically have two options here:
 
-1.) No Peer Evaluation or 
+1.) No Peer Evaluation or
 
 2.)Peer Evaluation. Either option is acceptable to me, but I strongly advise you implement Peer
 Evaluation so that you have a mechanism in place if problems arise.
@@ -101,12 +101,12 @@ peer evaluation.
 
 1. Policies for handling infractions of any of the obligations of this team contract:
 
-Given passes for reasonable excuses for both school and personal life. There will still need to be some communication with the team for the incedents. 
+Given passes for reasonable excuses for both school and personal life. There will still need to be some communication with the team for the incedents.
 
 
 2. Policies for handling persistent infractions:
 
-Meeting with the person with infractions, the team, and Dr. Goadrich. Discuss some of the issues and try to come up with a solution. 
+Meeting with the person with infractions, the team, and Dr. Goadrich. Discuss some of the issues and try to come up with a solution.
 
 
  Page 3 of 4
@@ -151,8 +151,10 @@ Signature: Johannes Mayrhofer
  Date:09/26/2023
 
 Printed
-name:
-Signature: Date:
+name: Joseph Washum
+Signature: Joseph W.
+Date: 09/26/2023
+
 Printed
 name:
 Signature: Date:
