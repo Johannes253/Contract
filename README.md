@@ -101,8 +101,12 @@ peer evaluation.
 
 1. Policies for handling infractions of any of the obligations of this team contract:
 
+Given passes for reasonable excuses for both school and personal life. There will still need to be some communication with the team for the incedents.
+
 
 2. Policies for handling persistent infractions:
+
+Meeting with the person with infractions, the team, and Dr. Goadrich. Discuss some of the issues and try to come up with a solution.
 
 
  Page 3 of 4
@@ -134,19 +138,23 @@ evidenced by their signatures below:
 Printed
 name: Hayden Moussa
 
-
 Signature: Hayden M.
 
 Date:9/26/2023
 
 
 Printed
+name: Johannes Mayrhofer
+
+Signature: Johannes Mayrhofer
+
+ Date:09/26/2023
+
+Printed
 name: Joseph Washum
 Signature: Joseph W.
-Date: 9/26/2023
-Printed
-name:
-Signature: Date:
+Date: 09/26/2023
+
 Printed
 name:
 Signature: Date:
