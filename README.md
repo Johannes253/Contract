@@ -142,25 +142,25 @@ Signature: Hayden M.
 
 Date:9/26/2023
 
-
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
+Working on the front end with java script and html, focusing most of my time on html. I will work to communicate with my teammates, talking about whatever issues I run into on the project. I will be responsible for keeping up to date with my group mates and attending the weekly meetings. 
 
 
- Page 4 of 4
+Printed
+name:
+Signature: Date:
+Printed
+name:
+Signature: Date:
+Printed
+name:
+Signature: Date:
+Printed
+name:
+Signature: Date:
+Printed
+name:
+Signature: Date:
+Printed
+name:
+Signature: Date:
+
