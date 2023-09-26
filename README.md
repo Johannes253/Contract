@@ -59,11 +59,16 @@ D. Personal Accountability:
 	- Members are expected to work on stuff outside of their predefined roles
 	
 3. Expected level of communication with other team members:
+	-Reach out if you are having a problem. (missing a meeting or having trouble with project)
 4. Expected level of commitment to team decisions and tasks.
+	-If we agreee to something as a group and it is possible fulfil do your end. Ask for help, communicate
 E. Consequences of breach of contract:
 What procedures and penalties do you wish to implement in the case of "slackers" or team members who
-deviate from your Team Contract? You basically have two options here: 1.) No Peer Evaluation or 2.)
-Peer Evaluation. Either option is acceptable to me, but I strongly advise you implement Peer
+deviate from your Team Contract? You basically have two options here: 
+
+1.) No Peer Evaluation or 
+
+2.)Peer Evaluation. Either option is acceptable to me, but I strongly advise you implement Peer
 Evaluation so that you have a mechanism in place if problems arise.
 1. No Peer Evaluation: Your group may decide that you do not want any form of peer evaluation
 and that you will trust each other to pull their weight throughout the entire semester. If that is your
@@ -77,27 +82,55 @@ the signed contract has been turned in to me. Therefore, be VERY SPECIFIC on the
 section and spend some time thinking about this section. The only way I will accept a change to
 your Team Contract is if ALL members of your team sign and date a written amendment to your
 initial agreement.
+
+
 • If you do some form of anonymous peer evaluation, please collect them in sealed envelopes from
 each team member. Turn in the entire packet of sealed envelopes no later than the day your
 project is due or, if applicable, the date specified on the course Schedule.
+
+
 • If your project has a mid-semester benchmark or group presentation, in addition to a final project,
 consider whether or not you want peer evaluation for these aspects as well as the final project. If
 your team is doing peer evaluations throughout the semester, in addition to the date your project
 is due, include such due dates on your contract.
+
+
 • I will provide notification via e-mail to any student whose grade may be lowered as a result of the
 peer evaluation.
+
+
 1. Policies for handling infractions of any of the obligations of this team contract:
+
+
 2. Policies for handling persistent infractions:
+
+
  Page 3 of 4
+
+
 F. Certification by team members:
+
+
 In appending your signatures below, you are stating that:
+
+
 a) You participated in formulating the standards, roles, and procedures of this contract;
+
+
 b) You have agreed to abide by these terms and conditions of this contract;
+
+
 c) You understand that you will be subject to the consequences specified above and may be subject to
 reduction in overall course grade in the event that you do not fulfill the terms of this contract.
+
+
 G. Acceptance of contract by faculty:
+
+
 This contract does not take effect until it is accepted by the supervising faculty of senior design as
 evidenced by their signatures below:
+
+
 Printed
 name:
 Signature: Date:
