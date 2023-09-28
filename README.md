@@ -62,41 +62,9 @@ D. Personal Accountability:
 	-Reach out if you are having a problem. (missing a meeting or having trouble with project)
 4. Expected level of commitment to team decisions and tasks.
 	-If we agreee to something as a group and it is possible fulfil do your end. Ask for help, communicate
+	
 E. Consequences of breach of contract:
-What procedures and penalties do you wish to implement in the case of "slackers" or team members who
-deviate from your Team Contract? You basically have two options here:
-
-1.) No Peer Evaluation or
-
-2.)Peer Evaluation. Either option is acceptable to me, but I strongly advise you implement Peer
-Evaluation so that you have a mechanism in place if problems arise.
-1. No Peer Evaluation: Your group may decide that you do not want any form of peer evaluation
-and that you will trust each other to pull their weight throughout the entire semester. If that is your
-decision, in this section of your contract, simply specify the following statement: All group
-members will receive the same grade on every aspect of the project regardless of their
-contribution and regardless of any problems that may arise throughout the semester.
-2. Peer Evaluation: If you would like some form of peer evaluation, specify the following
-statement: Our team will conduct peer evaluation as part of this project.
-• You cannot change any aspect of the team contract, particularly the "Procedures" section, once
-the signed contract has been turned in to me. Therefore, be VERY SPECIFIC on the Procedures
-section and spend some time thinking about this section. The only way I will accept a change to
-your Team Contract is if ALL members of your team sign and date a written amendment to your
-initial agreement.
-
-
-• If you do some form of anonymous peer evaluation, please collect them in sealed envelopes from
-each team member. Turn in the entire packet of sealed envelopes no later than the day your
-project is due or, if applicable, the date specified on the course Schedule.
-
-
-• If your project has a mid-semester benchmark or group presentation, in addition to a final project,
-consider whether or not you want peer evaluation for these aspects as well as the final project. If
-your team is doing peer evaluations throughout the semester, in addition to the date your project
-is due, include such due dates on your contract.
-
-
-• I will provide notification via e-mail to any student whose grade may be lowered as a result of the
-peer evaluation.
+1. We will be using peer evaluation at the end of the semester.
 
 
 1. Policies for handling infractions of any of the obligations of this team contract:
@@ -159,17 +127,21 @@ name: Joseph Washum
 Signature: Joseph W.
 
 Date: 09/26/2023
-I will be workin as the main person building on the front-end Javascript / AJAX, I will also be working some with Hayden on building the front-end of the HTML / CSS. I plan to be responsible for keeping up with my work and reaching out if issues arise or problems happen with changes made.
+I will be working as the main person building on the front-end Javascript / AJAX, I will also be working some with Hayden on building the front-end of the HTML / CSS. I plan to be responsible for keeping up with my work and reaching out if issues arise or problems happen with changes made.
 
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
-Printed
-name:
-Signature: Date:
+Printed 
+name: Justin Grubbs
+
+Signature: Justin Grubbs 
+
+Date: 09/27/2023
+I will primarily be responsible for working on the SQL schema design, framework/development, and wherever else I am needed. I will be responsible for attending every meeting I am able to and fill in and help wherever help is needed.
+
+
+
+
+
+
+
+
+
