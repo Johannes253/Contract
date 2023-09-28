@@ -61,7 +61,7 @@ D. Personal Accountability:
 3. Expected level of communication with other team members:
 	-Reach out if you are having a problem. (missing a meeting or having trouble with project)
 4. Expected level of commitment to team decisions and tasks.
-	-If we agreee to something as a group and it is possible fulfil do your end. Ask for help, communicate
+	-If we agree to something as a group and it is possible fulfil do your end. Ask for help, communicate
 	
 E. Consequences of breach of contract:
 1. We will be using peer evaluation at the end of the semester.
@@ -94,13 +94,6 @@ b) You have agreed to abide by these terms and conditions of this contract;
 
 c) You understand that you will be subject to the consequences specified above and may be subject to
 reduction in overall course grade in the event that you do not fulfill the terms of this contract.
-
-
-G. Acceptance of contract by faculty:
-
-
-This contract does not take effect until it is accepted by the supervising faculty of senior design as
-evidenced by their signatures below:
 
 
 Printed
